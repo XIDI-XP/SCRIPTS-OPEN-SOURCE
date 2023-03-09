@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/XIDI-XP/Taste/main/Taste.txt
